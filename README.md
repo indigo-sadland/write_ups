@@ -1,4 +1,3 @@
-# write_ups
 
 ```
 Writeups
