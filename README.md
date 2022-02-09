@@ -1,3 +1,23 @@
 # write_ups
 
-![volpe_](https://user-images.githubusercontent.com/37074372/151671085-afd081c0-0379-4739-a21f-9bfa8671ef6c.jpg)
+```
+Writeups
+│   
+│   
+│
+└───HTB
+    │  
+    │   
+    │
+    └───fortress
+    |   │   [Jet](https://github.com/indigo-sadland/write_ups/blob/main/htb/fortress/HTB%20_Jet(5:11).pdf)
+    |     
+    |      
+    |
+    └───linux
+    |    │  [Timing](https://github.com/indigo-sadland/write_ups/blob/main/htb/linux/HTB%20Timing.pdf)
+    |   
+    |
+    |
+    └───windows
+        │   [Hancliffe](https://github.com/indigo-sadland/write_ups/tree/main/htb/windows)
