@@ -8,6 +8,7 @@
 | Meta          | `ExifTool RCE, ImageMagick RCE for privilege escalation`                                                            |
 | Shibboleth    | `IPMI 2.0 RAKP Authentication Remote Password Hash Retrieval, Zabbix 5.0.17 blind RCE, MariaDB 10.3.25 RCE in Galera Replication Plugin  `|
 | Unicode       | `JWT tampering, LFI via Unicode Normalization vulnerability, LFI via curl to get root flag`                         |
+| Open Source   | `Flask/Werkzeug, LFI, Docker Escaping/Port Forwarding, Gitea, Pre-hooks RCE`                         |
 
 
 
