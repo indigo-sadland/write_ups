@@ -22,6 +22,7 @@
 | Driver        | `NTML hash capture via shell command file, PrintNigtmare`|
 | Search        | `Kerbrute, BloodHound, Kerberoasting, removing password from .xlsx file, accessing http endpoit via importing PFX certificate, exploitig Groups Managed Service Accounts permissions, exploiting GenericAll`                             |
 | Acute         | `Bypassing Windows Defender, connecting to RDP session via Msfconsole, Setting up session in Powershell, hashdump with meterpreter, putting  .bat file`                      |
+| Scrambled     | `TGT request, Kerberoasting, Silver Ticket, MSSQL code execution, .NET desirialization`|
 
 
 **Fortress**
